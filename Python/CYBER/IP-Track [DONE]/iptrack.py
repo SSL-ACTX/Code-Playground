@@ -1,5 +1,4 @@
 import os
-import webbrowser
 import geocoder
 import threading
 import tkinter as tk
