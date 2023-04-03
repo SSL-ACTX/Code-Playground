@@ -1,3 +1,3 @@
 # Code-Playground
 
-:fire Strictly no [COPYING] of codes. -_-
+:warning: Strictly no [COPYING] of codes. -_-
