@@ -1,3 +1,3 @@
 # Code-Playground
 
-:warning: Strictly no [COPYING] of codes. -_-
+:warning: Nothing to see here.
