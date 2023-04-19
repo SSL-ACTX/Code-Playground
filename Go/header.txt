@@ -1,3 +1,0 @@
-Accept: text/html
-User-agent: Wget
-Referer: http://google.com
