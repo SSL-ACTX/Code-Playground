@@ -19,7 +19,7 @@
       </section>
       <section>
         <h2>Disclaimer</h2>
-        <p>Please note that some of the code in this repo isn't perfectly functional and bug-free; there may be many errors or issues. Please use at your own risk.</p>
+        <p>Please note that some or maybe most of the code in this repo isn't perfectly functional and bug-free; there may be many errors or issues. Please use at your own risk.</p>
       </section>
       <section>
         <h2>Usage</h2>
