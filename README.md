@@ -11,7 +11,7 @@
     </header>
     <main>
       <section>
-        <p style="text-align:center;font-size:20px">Welcome to Code-Playground, a place where I experiment, play, and learn new programming concepts.</p>
+        <p style="text-align:center;font-size:20px">Welcome to Code-Playground, a place where I experiment, play, and learn new programming languages, concepts, etc.</p>
       </section>
       <section>
         <h2>About</h2>
